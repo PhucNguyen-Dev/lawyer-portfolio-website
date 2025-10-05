@@ -1,8 +1,7 @@
 
-  # Web Developer Portfolio (Community)
+  # Web Developer Portfolio 
 
-  This is a code bundle for Web Developer Portfolio (Community). The original project is available at https://www.figma.com/design/u1kheNTicOyuDRT2JPCJUl/Web-Developer-Portfolio--Community-.
-
+  
   Author: Nguyen P Nguyen
 
   License: MIT
